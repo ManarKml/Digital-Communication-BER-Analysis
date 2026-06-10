@@ -6,7 +6,8 @@
 This project simulates the complete pipeline of a digital communication system—from random bit generation and symbol mapping to noise addition, demapping, and error calculation. It evaluates the performance of **BPSK, QPSK, 8-PSK, and 16-QAM** modulation techniques, comparing empirical simulated results against theoretical mathematical bounds. It also highlights the performance differences between Gray coding and non-Gray coding in QPSK.
 
 ## Features
-* **Modulation Schemes Implemented:** * BPSK (Binary Phase Shift Keying)
+* **Modulation Schemes Implemented:**
+  * BPSK (Binary Phase Shift Keying)
   * QPSK (Quadrature Phase Shift Keying) - *Includes Gray vs. Non-Gray coding comparison*
   * 8-PSK (8-Phase Phase Shift Keying) - *Gray-coded*
   * 16-QAM (16-Quadrature Amplitude Modulation) - *Gray-coded*
